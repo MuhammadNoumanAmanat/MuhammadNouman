@@ -1,4 +1,4 @@
-# Muhammad Nouman
+# Muhammad Nouman Amanat
 
 **Research Associate | Electrical Engineering Graduate | Edge AI & Signal Processing**
 
