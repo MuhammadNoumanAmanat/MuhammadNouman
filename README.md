@@ -27,7 +27,7 @@ My interests include **Edge AI, self-supervised representation learning, efficie
 ## Publications and research outputs
 
 - **M. Nouman and A. Rahman**, “Wearable Smart Insole for Early Diabetic Foot Ulcer Prediction Using Multi-Modal Sensing,” *IEEE International Multi-Topic Conference (INMIC)*, 2025. **Published**.
-- **M. Nouman**, “Low-Latency Environmental Sound Classification on Edge Devices via Gated Contrastive Learning.” **Manuscript under review** (status per draft supplied October 2026); public preprint link to be added if available.
+- **M. Nouman**, “Low-Latency Environmental Sound Classification on Edge Devices via Gated Contrastive Learning.” **Manuscript under review at IEEE Signal Processing Letters (SPL)**; public preprint link to be added once available.
 
 ## Technical background
 
