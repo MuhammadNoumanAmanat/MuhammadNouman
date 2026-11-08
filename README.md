@@ -18,6 +18,12 @@ My interests include **Edge AI, self-supervised representation learning, efficie
 
 *Project repositories will be linked here as source code, experiments and materials are cleared for public release.*
 
+## Bachelor's thesis (2025)
+
+**[Wearable Smart Insole for Early Diabetic Foot Ulcer Prediction Using Multi-Modal Sensing](bachelors-thesis/README.md)** — BSc Electrical Engineering final-year research project at ITU, Lahore. The project combines multimodal wearable sensing, Arduino-based data acquisition, MATLAB visualization and LSTM-based time-series analysis. Co-authored with Abdul Rahman; associated research published at [IEEE INMIC 2025](https://doi.org/10.1109/INMIC65900.2025.11348422).
+
+*The full approved thesis PDF will be linked from the project page after it has been uploaded.*
+
 ## Publications and research outputs
 
 - **M. Nouman and A. Rahman**, “Wearable Smart Insole for Early Diabetic Foot Ulcer Prediction Using Multi-Modal Sensing,” *IEEE International Multi-Topic Conference (INMIC)*, 2025. **Published**.
