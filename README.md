@@ -12,7 +12,7 @@ My interests include **Edge AI, self-supervised representation learning, efficie
 | --- | --- | --- |
 | **Low-Latency Environmental Sound Classification** | SimCLR, MobileNetV3-style CNN, RMS energy gating, INT8 quantization | 89.9% ± 1.55% ESC-50 accuracy on 1 s chunks; 3.9 MB INT8 model; 18.9 ms/active chunk on Raspberry Pi 4 *(reported in manuscript draft)* |
 | **Multimodal Edge AI Aerial Monitoring** | YOLO11 Nano, RGB–thermal fusion, ONNX Runtime, Raspberry Pi 5 | 93.7% precision, 86.6% mAP@50; 5.11 MB model *(reported in project evaluation)* |
-| **Wearable Smart Insole for Foot Health Monitoring** | Multimodal wearable sensors, LSTM, real-time monitoring | Co-authored research published at IEEE INMIC 2025 |
+| **[Wearable Smart Insole for Foot Health Monitoring](https://github.com/MuhammadNoumanAmanat/Smart-Insole-Multimodal-Monitoring-Thesis)** | Multimodal wearable sensors, LSTM, real-time monitoring | Co-authored research published at IEEE INMIC 2025 |
 | **SDR-Based Drone Remote ID Decoding** | OFDM synchronization, QPSK, Turbo decoding and packet parsing | Research internship in RF signal processing |
 | **Flexible Capacitive Pressure Sensor Modeling** | COMSOL, finite element modeling, dielectric microstructures | Parametric simulation of sensor sensitivity and linearity |
 
@@ -20,9 +20,9 @@ My interests include **Edge AI, self-supervised representation learning, efficie
 
 ## Bachelor's thesis (2025)
 
-**[Wearable Smart Insole for Early Diabetic Foot Ulcer Prediction Using Multi-Modal Sensing](bachelors-thesis/README.md)** — BSc Electrical Engineering final-year research project at ITU, Lahore. The project combines multimodal wearable sensing, Arduino-based data acquisition, MATLAB visualization and LSTM-based time-series analysis. Co-authored with Abdul Rahman; associated research published at [IEEE INMIC 2025](https://doi.org/10.1109/INMIC65900.2025.11348422).
+**[Wearable Smart Insole for Early Diabetic Foot Ulcer Prediction Using Multi-Modal Sensing](https://github.com/MuhammadNoumanAmanat/Smart-Insole-Multimodal-Monitoring-Thesis)** — BSc Electrical Engineering final-year research project at ITU, Lahore. The project combines multimodal wearable sensing, Arduino-based data acquisition, MATLAB visualization and LSTM-based time-series analysis. Co-authored with Abdul Rahman; associated research published at [IEEE INMIC 2025](https://doi.org/10.1109/INMIC65900.2025.11348422).
 
-*The full approved thesis PDF will be linked from the project page after it has been uploaded.*
+*The approved thesis PDF will be linked in the dedicated repository after publication clearance and upload.*
 
 ## Publications and research outputs
 
